@@ -6,9 +6,10 @@
 - 📝 I regularly write articles on [https://medium.com/@sterlingbarton81](https://medium.com/@sterlingbarton81)
 
 - 📫 How to reach me **sterlingbartondevelopment@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://www.linkedin.com/in/sterling-barton/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
